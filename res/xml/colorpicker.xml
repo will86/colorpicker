@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <net.jileniao.colorpicker.ver2.ColorPickerPreference
+        alphaSlider="true"
+        enabledByDefault="false"
+        hexValue="true"
+        showCheckbox="false"
+        android:key="ccl"
+        android:title="Pick a Color" >
+    </net.jileniao.colorpicker.ver2.ColorPickerPreference>
+
+</PreferenceScreen>
