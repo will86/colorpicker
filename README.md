@@ -12,7 +12,7 @@ android开发中颜色取色板
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件：will.zhang.sd@gmail.com
-* Blog留言: http://jileniao.net
+* Blog留言: http://jileniao.net/android-colorpicker.html
 
 ##关于作者
   Will @ SD
